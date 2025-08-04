@@ -1,4 +1,4 @@
-## Herença Em Java
+## Herança Em Java
 
 Segue o link do vídeo
 
